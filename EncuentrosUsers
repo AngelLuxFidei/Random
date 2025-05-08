@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "firstName": "Lucía",
+      "lastName": "Ramírez",
+      "registrationCode": "LUC1234",
+      "startDate": "2025-04-01",
+      "endDate": "2025-06-10",
+      "accessLevel": "organizer"
+    },
+    {
+      "firstName": "Carlos",
+      "lastName": "Mendoza",
+      "registrationCode": "CAR5678",
+      "startDate": "2025-05-08",
+      "endDate": "2025-06-10",
+      "accessLevel": "participant"
+    },
+    {
+      "firstName": "Ana",
+      "lastName": "Gómez",
+      "registrationCode": "ANA9012",
+      "startDate": "2025-04-03",
+      "endDate": "2025-06-10",
+      "accessLevel": "speaker"
+    },
+    {
+      "firstName": "Miguel",
+      "lastName": "Torres",
+      "registrationCode": "MIG3456",
+      "startDate": "2025-06-02",
+      "endDate": "2025-06-08",
+      "accessLevel": "volunteer"
+    }
+  ]
+}
