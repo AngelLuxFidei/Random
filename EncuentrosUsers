@@ -40,6 +40,13 @@
       "endDate": "2025-06-08",
       "accessLevel": "volunteer"
     },
-    
+    {
+      "firstName": "Jazmin",
+      "lastName": "Lopez",
+      "registrationCode": "JAZ3456",
+      "startDate": "2025-05-02",
+      "endDate": "2025-06-08",
+      "accessLevel": "volunteer"
+    }
   ]
 }
