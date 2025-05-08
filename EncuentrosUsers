@@ -6,7 +6,7 @@
       "registrationCode": "LUC1234",
       "startDate": "2025-04-01",
       "endDate": "2025-06-10",
-      "accessLevel": "organizer"
+      "accessLevel": "coordinadorGeneral"
     },
     {
       "firstName": "Carlos",
@@ -14,7 +14,7 @@
       "registrationCode": "CAR5678",
       "startDate": "2025-05-08",
       "endDate": "2025-06-10",
-      "accessLevel": "participant"
+      "accessLevel": "coordinador"
     },
     {
       "firstName": "Ana",
@@ -22,7 +22,7 @@
       "registrationCode": "ANA9012",
       "startDate": "2025-04-03",
       "endDate": "2025-06-10",
-      "accessLevel": "speaker"
+      "accessLevel": "hijoProdigo"
     },
     {
       "firstName": "Miguel",
@@ -30,7 +30,7 @@
       "registrationCode": "MIG3456",
       "startDate": "2025-06-02",
       "endDate": "2025-06-08",
-      "accessLevel": "volunteer"
+      "accessLevel": "comunidad"
     },
     {
       "firstName": "Angel",
@@ -38,7 +38,7 @@
       "registrationCode": "LOP3456",
       "startDate": "2025-05-02",
       "endDate": "2025-06-08",
-      "accessLevel": "volunteer"
+      "accessLevel": "addiciones"
     },
     {
       "firstName": "Jazmin",
@@ -46,7 +46,7 @@
       "registrationCode": "JAZ3456",
       "startDate": "2025-05-02",
       "endDate": "2025-06-08",
-      "accessLevel": "volunteer"
+      "accessLevel": "accionApostolica"
     }
   ]
 }
